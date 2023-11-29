@@ -12,13 +12,13 @@ class Config(object):
     SUPPORT_CHAT = "the_support_chat"  # Your own group for support, do not add the @
     START_IMG = "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png"
     EVENT_LOGS = (-1001603027566)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    MONGO_DB_URI= ""
+    MONGO_DB_URI= "MONGO_DB_URI", "mongodb+srv://karjr002:INCyT5eXfqjoiYQ4@cluster0.6swcped.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
-    DATABASE_URL = ""  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://joestroq:xFuhuUu_XRrZA-KzUkCNLWVq14qT4yIu@isabelle.db.elephantsql.com/joestroq"  # A sql database url from elephantsql.com
     CASH_API_KEY = (
-        ""  # Get your API key from https://www.alphavantage.co/support/#api-key
+        "D5UJD8IQE34NXJ0O"  # Get your API key from https://www.alphavantage.co/support/#api-key
     )
-    TIME_API_KEY = ""
+    TIME_API_KEY = "F8NYGXSAEEC4"
     # Get your API key from https://timezonedb.com/api
 
     # Optional fields
