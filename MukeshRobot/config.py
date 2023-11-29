@@ -9,7 +9,7 @@ class Config(object):
     TOKEN = "6491531689:AAFaxNvZyiyPE8lhZlo2dNv45yZoHVjSSIQ"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1556830659 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     
-    SUPPORT_CHAT = "the_support_chat"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "its_witch_here"  # Your own group for support, do not add the @
     START_IMG = "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png"
     EVENT_LOGS = (-1001603027566)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= "MONGO_DB_URI", "mongodb+srv://karjr002:INCyT5eXfqjoiYQ4@cluster0.6swcped.mongodb.net/?retryWrites=true&w=majority"
